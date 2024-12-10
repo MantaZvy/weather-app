@@ -9,6 +9,12 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <footer>
+      This project was coded by <a href="#">Mantas Zvybas</a> and is
+      open-sourced on
+      <a href="https://github.com/MantaZvy/weather-app">GitHub</a> and hosted on
+      Netlify
+    </footer>
   </React.StrictMode>
 );
 
